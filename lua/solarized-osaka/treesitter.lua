@@ -375,6 +375,14 @@ M.defaults = {
     default = true,
     link = "Special",
   },
+["@component_tag.vue"] = {
+    default = true,
+    link = "Type",
+  },
+["@directive.vue"] = {
+    default = true,
+    link = "Special",
+  },
 }
 
 return M
